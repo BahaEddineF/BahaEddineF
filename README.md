@@ -9,7 +9,7 @@ I'm also an active **Red Crescent volunteer**, merging technical expertise with 
 
 ### 💼 Key Skills
 
-- 🔧 **Web & Backend Development**: Java, PHP, Python, Node.js, Angular, .NET  
+- 🔧 **Web & Backend Development**: Java, PHP, Python, NetsJS, Angular, .NET, Springboot, GraphQl  
 - 🧩 **DevOps & Automation**: Docker, Kubernetes, Jenkins, GitLab CI, Ansible, Terraform, GitHub Actions  
 - ⚙️ **Tools & Technologies**: Git, GitHub, GitLab, Postman, MySQL, JWT, SonarQube, Trello  
 - 📚 **Practices**: CI/CD, Containerization, Infrastructure as Code, Agile/SCRUM
